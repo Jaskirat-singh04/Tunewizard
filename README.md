@@ -1,6 +1,7 @@
 # TuneWizard AI 🧙‍♂️✨
 
-![image](https://github.com/user-attachments/assets/2f5e86ad-2a31-4a6d-a4a3-0f137fbc2633)
+![image](https://github.com/user-attachments/assets/1f2ea0e0-a87a-488d-9df1-830e4afbeb61)
+
 ## Interface
 
 
