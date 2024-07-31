@@ -1,7 +1,7 @@
 # TuneWizard AI 🧙‍♂️✨
 
-![TuneWizard AI Logo](https://ibb.co/mz3t9mQ)
-
+![image](https://github.com/user-attachments/assets/2f5e86ad-2a31-4a6d-a4a3-0f137fbc2633)
+## Interface
 
 
 TuneWizard AI is an intuitive, GUI-based tool for fine-tuning Large Language Models (LLMs). It makes the complex process of LLM fine-tuning accessible to everyone, from AI enthusiasts to professional researchers.
@@ -16,33 +16,27 @@ TuneWizard AI is an intuitive, GUI-based tool for fine-tuning Large Language Mod
 - 🧪 Comprehensive model evaluation metrics
 - 🚀 Easy model export and deployment
 
-## 🚀 Quick Start
+🚀 Quick Start
+Prerequisites
 
-### Prerequisites
+Google Colab account or Kaggle account
+GPU runtime (T4 GPU on Colab or GPU on Kaggle)
 
-- Python 3.8+
-- pip
+Running the Notebook
 
-### Installation
+Open the TuneWizard AI notebook in Google Colab or Kaggle.
+Ensure you have selected a GPU runtime:
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/TuneWizardAI.git
-   cd TuneWizardAI
-   ```
+For Google Colab: Runtime > Change runtime type > Hardware accelerator > GPU
+For Kaggle: Settings > Accelerator > GPU
 
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
 
-3. Run TuneWizard AI:
-   ```
-   python tunewizard.py
-   ```
+Run the notebook cells in order, following the instructions provided in each cell.
+When prompted, upload your dataset or provide a Hugging Face dataset link.
+Adjust hyperparameters as needed using the provided interface.
+Start the training process and monitor the results in real-time.
 
-4. Open your browser and navigate to `http://localhost:7860` to access the TuneWizard AI interface.
-
+Note: The notebook will install all necessary dependencies automatically. No manual installation is required.
 ## 💡 How to Use
 
 1. **Select Dataset**: Choose between entering a Hugging Face dataset link or uploading a CSV file.
@@ -94,4 +88,4 @@ For support or queries, please open an issue or contact us at support@tunewizard
 
 ---
 
-Made with ❤️ by [Jaskirat](https://github.com/yourusername)
+Made with ❤️ by [Jaskirat](https://github.com/Jaskirat-singh04)
