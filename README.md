@@ -5,6 +5,14 @@
 
 ## Interface
 
+![image](https://github.com/user-attachments/assets/77f36d6c-87fd-425f-b509-c05ef5f4b788)
+![image](https://github.com/user-attachments/assets/cac82204-57eb-4b7d-981e-33ec9a4452fc)
+![image](https://github.com/user-attachments/assets/279ec58f-f0db-430e-8f8e-b4433b858a58)
+![image](https://github.com/user-attachments/assets/83cf3670-5231-49f0-b6e0-b32e8a09b098)
+![image](https://github.com/user-attachments/assets/515fd359-73a4-443b-94e7-b57a57a6d8cd)
+![image](https://github.com/user-attachments/assets/9edc8d15-1404-4057-9b8e-0f2a60a35e29)
+
+
 
 TuneWizard AI is an intuitive, GUI-based tool for fine-tuning Large Language Models (LLMs). It makes the complex process of LLM fine-tuning accessible to everyone, from AI enthusiasts to professional researchers.
 
