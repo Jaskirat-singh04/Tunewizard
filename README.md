@@ -49,9 +49,9 @@ Start the training process and monitor the results in real-time.
 Note: The notebook will install all necessary dependencies automatically. No manual installation is required.
 ## 💡 How to Use
 
-1. **Select Dataset**: Choose between entering a Hugging Face dataset link or uploading a CSV file.
+1. **Select Dataset**: Choose between entering a Hugging Face dataset link or uploading a CSV file(Coming soon). Make sure your dataset columns should have these Headers: Question, Title and Answers, Adjust in case of conflicts in  .
 
-2. **Choose Model**: Select from our list of supported models or enter a custom model name.
+2. **Choose Model**: Select from our list of supported models or enter a custom model name (Must be supported by unsloth please check here: https://github.com/unslothai/unsloth ).
 
 3. **Set Hyperparameters**: Adjust batch size, learning rate, warmup steps, and more using intuitive sliders.
 
