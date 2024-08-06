@@ -94,7 +94,7 @@ TuneWizard AI is released under the MIT License. See the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For support or queries, please open an issue or contact us at support@tunewizardai.com.
+For support or queries, please open an issue or contact us at singh.kirat.0409@gmail.com
 
 ---
 
